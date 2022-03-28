@@ -1,5 +1,8 @@
 # Portfolio Repo
 
+A Portfolio created with React App
+
+Deployment link: https://nico-patano.github.io/PortfolioTestRepo/#about-me
 
 Screen Shots:
 ![image](https://user-images.githubusercontent.com/93544845/160500713-9c6a7d7f-649e-496a-9337-d2f2cbe8a891.png)
